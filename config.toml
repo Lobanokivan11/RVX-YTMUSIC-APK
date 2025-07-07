@@ -9,7 +9,7 @@ parallel-jobs = 1
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
-included-patches = "'Custom header for YouTube Music' 'Disable music video in album' 'Hide overlay filter' 'Hide player overlay filter' 'Return YouTube Username'"
+included-patches = "'Custom header for YouTube Music' 'Enable debug logging' 'Disable music video in album' 'Hide overlay filter' 'Hide player overlay filter' 'Return YouTube Username'"
 cli-source = "inotia00/revanced-cli"
 patches-source = "inotia00/revanced-patches"
 cli-version = "dev"
